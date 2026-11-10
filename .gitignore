@@ -1,0 +1,18 @@
+data/
+sepa/
+logs/
+__pycache__/
+*.pyc
+*.log
+*.html
+!mockups/*.html
+*.parquet
+*.duckdb
+*.wal
+.env
+# artefactos locales de herramientas/sesiones
+.claude/
+.impeccable/
+exports/
+media/
+research/_*.png
